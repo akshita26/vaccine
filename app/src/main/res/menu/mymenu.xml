@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Calender"
+        android:id="@+id/cal"></item>
+    <item
+        android:id="@+id/vdb"
+        android:checkable="false"
+        android:title="Vaccine database"></item>
+    <item
+        android:id="@+id/hp"
+        android:title="Hospitals near me"></item>
+    <item android:title="Guide"
+        android:id="@+id/guide"></item>
+    <item
+        android:id="@+id/about"
+        android:title="About"></item>
+
+</menu>

@@ -1,0 +1,30 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vac"
+    tools:context="com.example.akshitasharma.vac.MainActivity">
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textSize="25dp"
+        android:textColor="#000"
+        tools:layout_editor_absoluteY="45dp"
+        tools:layout_editor_absoluteX="144dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="98dp"
+        android:layout_marginStart="98dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
